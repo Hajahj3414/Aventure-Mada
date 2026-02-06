@@ -17,7 +17,7 @@ export function ContactSection() {
   };
 
   const handleWhatsApp = () => {
-    window.open('https://wa.me/261340000000', '_blank');
+    window.open('https://wa.me/261333031563', '_blank');
   };
 
   const handleEmail = () => {

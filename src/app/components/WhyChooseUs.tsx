@@ -42,7 +42,7 @@ export function WhyChooseUs() {
             Pourquoi nous choisir ?
           </h2>
           <p style={{ fontFamily: 'Inter, sans-serif', color: '#333333' }}>
-            Une expérience unique avec MadaExplore
+            Une expérience unique avec MizaraVoyage
           </p>
         </motion.div>
 
